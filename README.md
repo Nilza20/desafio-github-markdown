@@ -7,3 +7,4 @@ Desafio Github Markdown
 - [x] Criar uma conta no Github   
 - [x] Criar Repositório  
 - [x] Colaboração 
+- [x] Formatação com Markdown
